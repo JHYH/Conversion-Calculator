@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\Conversion Calculator\Conversion Calculator\bin\Debug\Conversion Calculator.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Conversion Calculator\Conversion Calculator\bin\Debug\Conversion Calculator.exe
+c:\users\user\documents\visual studio 2012\Projects\Conversion Calculator\Conversion Calculator\bin\Debug\Conversion Calculator.pdb
+c:\users\user\documents\visual studio 2012\Projects\Conversion Calculator\Conversion Calculator\obj\Debug\Conversion Calculator.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Conversion Calculator\Conversion Calculator\obj\Debug\Conversion Calculator.exe
+c:\users\user\documents\visual studio 2012\Projects\Conversion Calculator\Conversion Calculator\obj\Debug\Conversion Calculator.pdb
